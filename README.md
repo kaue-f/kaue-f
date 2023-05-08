@@ -25,4 +25,7 @@
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,css,laravel,tailwind)](https://skillicons.dev)
 
 
-![Snake animation](https://github.com/kaue-f/blob/output/github-contribution-grid-snake.svg)
+ <p align="center"> 
+
+  ![Snake animation](https://github.com/kaue-f/kaue-f/blob/output/github-contribution-grid-snake.svg)
+ </p>
