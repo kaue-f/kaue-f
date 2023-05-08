@@ -20,6 +20,6 @@
 </div>
 
 ##
-[![My Skills](https://skillicons.dev/icons?i=js,php,py,html,git,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,php,py,html,git,mysql,css)](https://skillicons.dev)
 ##
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,css,laravel,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,laravel,tailwind)](https://skillicons.dev)
