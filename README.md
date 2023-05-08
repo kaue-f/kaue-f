@@ -23,9 +23,3 @@
 [![My Skills](https://skillicons.dev/icons?i=js,php,py,html,git,mysql)](https://skillicons.dev)
 ##
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,css,laravel,tailwind)](https://skillicons.dev)
-
-
- <p align="center"> 
-
-  ![Snake animation](https://github.com/kaue-f/kaue-f/blob/output/github-contribution-grid-snake.svg)
- </p>
