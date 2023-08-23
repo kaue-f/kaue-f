@@ -1,6 +1,6 @@
 ### Olá! Sou o Kauê Francisco 👋
 
-- 🔭 Hoje trabalho com Fullstack.
+- 🔭 Fullstack.
 - 🌱 Estudando PHP e Laravel.
 - 💪 Evolução constante.
 
