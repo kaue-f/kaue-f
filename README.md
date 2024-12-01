@@ -6,10 +6,6 @@ I have been a Full-Stack developer since 2023, with experience in Laravel, Livew
 
 💬 Evolution is not just about where I want to get, but about what I learn in the process.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kaue-francisco-21a192168/)](https://www.linkedin.com/in/kaue-francisco-21a192168/)
-[![Gmail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:kaue_francisco70@hotmail.com)](mailto:kaue_francisco70@hotmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white&link=)](https://github.com/kaue-f)
-
 ---
 
 ## 🚀 My Skills
